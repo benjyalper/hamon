@@ -1,0 +1,56 @@
+body {
+    background-image: url(/hamon/sushi.jpg);
+    background-size: 70vh;
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+    background-color: rgb(0, 0, 0, 0.8);
+    padding: 20px;
+}
+
+h2 {
+    text-align: right;
+    margin-right: 20px;
+    color: brown;
+}
+
+h3 {
+    font-size: 48px;
+    background-color: rgb(240, 255, 255, 0.4);
+    width: auto;
+    padding: 20px;
+    border-radius: 50%;
+    color: greenyellow;
+}
+
+#subscribeBtn {
+    height: 250px;
+    width: 270px;
+    background-image: url(/hamon/adar-happy.jpg);
+    background-size: contain;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 200px;
+    border-radius: 30px;
+    margin-left: 30px;
+}
+
+#hamonMessage {
+    position: absolute;
+    margin-left: 41%;
+    display: none;
+}
+
+#byby {
+    height: 250px;
+    width: 180px;
+    background-image: url(/hamon/adar-byby.jpg);
+    background-size: contain;
+    margin-left: 85%;
+    margin-top: 6%;
+    border-radius: 20px;
+}
